@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "bluegreen",
+    "packageName": "org.brewman.bluegreen",
+    "packageFolder": "org/brewman/bluegreen",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8"
+  }
+}
